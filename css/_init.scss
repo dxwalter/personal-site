@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700|Work+Sans:400,600&display=swap');
+
+$mq-xs: "min-width: 0px";
+$mq-sm: "min-width: 599px";
+$mq-mb: "min-width: 768px";
+$mq-md: "min-width: 959px";
+$mq-lg: "min-width: 1279px";
+$mq-xl: "min-width: 1919px";
+
+// padding
+$default-btn-padding: 12px;
+$default-form-padding: 14px 14px;
+
+// font-size for mobile
+$xl-text-size: 32px;
+$lg-text-size: 26px;
+$md-text-size: 22px;
+$sm-text-size: 16px;
+$xs-text-size: 14px;
+
+// this is for margin
+$xl-mg: 40px;
+$lg-mg: 32px;
+$md-mg: 24px;
+$sm-mg: 16px;
+$xs-mg: 8px;
+
+
+//   box-shadow
+$box-shadow-two: 0px 3px 6px rgba(0, 0, 0, 0.16);
+$box-shadow: 0 2px 4px 0 rgba(0,0,0,0.05);;
+
+$form-border: 0.5px solid rgba(112, 112, 112, 0.18);
+
+//   font-color
+
+$white-color: rgba(255, 255, 255, 1);
+$black-color: rgba(0, 0, 0, 1);
+$label-color: rgba(187, 35, 32, 1);
+
+$section-color: rgba(247, 247, 247, 1);
+$text-color: rgba(0, 0, 0, 0.6);
+$header-color: rgba(0, 0, 0, 0.87);
+$brand-color: rgba(254, 169, 40, 1);
+$brand-color-hover:rgba(254, 169, 40, .8);
+
+$success-color: rgba(56, 142, 60, 1);
+$success-color-hover: rgba(44, 109, 47, 1);
